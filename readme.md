@@ -2,7 +2,7 @@
 This repository contains the code and the compiled binary to active Microsoft Office 2016/2019. 
 
 ## I don't care about anything, just give me the f████ng download!
-Here ya go: https://github.com/Unknown6656/MSOffice2016Unlocker/releases
+Here ya go: https://github.com/msn69420/msn69420s-fork-of-office-2016-unlocker/releases
 
 ## Dependencies and stuff?
 The binary `unlocker.exe` depends on *any* one of the following dependencies to run:
